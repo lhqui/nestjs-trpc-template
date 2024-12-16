@@ -1,0 +1,5 @@
+packages:
+  # allow to have different apps (frontend and backend) in the same repository
+  # make use of pnpm's speedy package management
+  # all apps in direct subdirs of apps/
+  - 'apps/*'
